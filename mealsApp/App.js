@@ -33,7 +33,7 @@ export default function App() {
             options={{
               title: 'All categories',
               headerTintColor: 'white',
-              contentStyle: { backgroundColor: '#C39898'}
+              contentStyle: { backgroundColor: '#C3988'}
             }} 
           />
           <Stack.Screen 
